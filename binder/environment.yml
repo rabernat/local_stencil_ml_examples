@@ -1,0 +1,6 @@
+name: pangeo
+channels:
+  - conda-forge
+dependencies:
+  - pip:
+    - git+https://github.com/rabernat/xbatcher.git
